@@ -1,2 +1,2 @@
-# MyRepository
-MyRespository for my Class
+# MyRepositoryToday
+MyRespository for my Class Today
